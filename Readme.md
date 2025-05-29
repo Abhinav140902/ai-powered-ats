@@ -227,7 +227,7 @@ This ATS uses **Vector Similarity Search** - a state-of-the-art approach that:
 
 ## ⚡ Performance
 
-### Benchmarks (Tested on MacBook Air M1, 16GB RAM)
+### Benchmarks (Tested on MacBook Air M4, 16GB RAM)
 
 | Operation | Time | Throughput |
 |-----------|------|------------|
