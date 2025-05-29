@@ -1,0 +1,14 @@
+langchain==0.1.0
+langchain-community==0.0.20
+pypdf==3.15.1
+docx2txt==0.8
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.24.3
+
+# Compatible versions to avoid conflicts
+transformers==4.35.2
+sentence-transformers==2.2.2
+huggingface_hub==0.17.3
+torch==2.0.0
