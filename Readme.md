@@ -500,17 +500,14 @@ Special thanks to:
 
 ### Getting Help
 
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/yourusername/ai-powered-ats/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/ai-powered-ats/discussions)
-- 📧 **Direct Contact**: your.email@example.com
-- 💬 **Community Chat**: [Join our Discord](https://discord.gg/your-invite)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/Abhinav140902/ai-powered-ats/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/Abhinav140902/ai-powered-ats/discussions)
+- 📧 **Direct Contact**: abhinav140902@gmail.com
 
 ### Stay Updated
 
 - ⭐ **Star this repo** to get notifications
 - 👀 **Watch releases** for new versions
-- 🐦 **Follow on Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 📢 **Join our newsletter**: [Subscribe here](https://newsletter.link)
 
 ---
 
@@ -518,7 +515,7 @@ Special thanks to:
 
 ### 🚀 **Ready to revolutionize your hiring process?**
 
-**[⬇️ Download Now](https://github.com/yourusername/ai-powered-ats/releases) | [📖 Documentation](https://github.com/yourusername/ai-powered-ats/wiki) | [🎥 Tutorial](https://youtube.com/watch?v=tutorial-link)**
+**[⬇️ Download Now](https://github.com/Abhinav140902/ai-powered-ats/releases) | [📖 Documentation](https://github.com/Abhinav140902/ai-powered-ats/wiki)**
 
 ---
 
