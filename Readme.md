@@ -93,7 +93,7 @@ This AI-Powered ATS is a complete solution for intelligent resume screening and 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ai-powered-ats.git
+   git clone https://github.com/Abhinav140902/ai-powered-ats.git
    cd ai-powered-ats
    ```
 
